@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on [RCE](https://github.com/suyashvsingh/rce70-next)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Next.js, and exploring ML**
+- 🌱 I’m currently learning **Docker, Kubernetes, Next.js** and exploring **ML**
 
 - 📫 How to reach me **ketanprakash001@gmail.com**
 
